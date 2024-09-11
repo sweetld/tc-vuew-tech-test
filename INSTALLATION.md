@@ -4,6 +4,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Bun
 Use [bun](https://bun.sh/) installation guide to install bun and run this project.
+>[!NOTE]
+>You can use a different package manager just refer on your readme file which one was used
 
 ## Recommended IDE Setup
 
