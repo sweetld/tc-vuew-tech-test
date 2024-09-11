@@ -55,8 +55,8 @@ The tasks should be stored in the browser's local storage or indexedDB to persis
 # Additional Information
 
 ### Vue.js Framework
-It's required to use vue version 3 since the versions below are going EOL.
-And part of the job will require migrate vue 2 to vue 3. 
+It's required to use vue version 3 since the versions before are going EOL.
+Part of the job will require migrating vue 2 to vue 3. 
 Although specific vue 3 is required you can use Nuxt version 3 to create the task.
 This project is just a way to speed up the setup.
 
