@@ -1,6 +1,4 @@
-# True Compliance
-
-## Task Description
+# Task Description
 We want you to build a simple To-Do List Application using Vue 3 and Vite. 
 
 You can add tasks, mark them as done, and delete them. 
@@ -10,7 +8,6 @@ The tasks should be stored in the browser's local storage or indexedDB to persis
 >[!CAUTION]
 > All installed packages need to be mentioned unless they were pre-installed
 
----
 ### Requirements
 1. **Vue.js Framework**: Use Vue.js to build the front-end of the application.[info](#vuejs-framework)
 
@@ -36,7 +33,7 @@ The tasks should be stored in the browser's local storage or indexedDB to persis
 - Testing
 - Accessibility
 - Performance Optimization
----
+
 ### Evaluation Criteria:
 - **Correctness**: The Application should function as described and meet all the requirements
 - **Code Quality**: The code should be well-structure, readable and maintainable
@@ -45,8 +42,7 @@ The tasks should be stored in the browser's local storage or indexedDB to persis
 - **Accessibility**: The application should be accessible to users with disabilities
 - **Creativity**: The application should demonstrate creativity and innovation
 
----
-### Submission 
+# Submission 
 
 - Submit your project as a GitHub repository or a compressed archive (e.g zip).
 - Include a README file that explains how to run the application and any specific instructions.
