@@ -42,12 +42,6 @@ The tasks should be stored in the browser's local storage or indexedDB to persis
 - **Accessibility**: The application should be accessible to users with disabilities
 - **Creativity**: The application should demonstrate creativity and innovation
 
-# Submission 
-
-- Submit your project as a GitHub repository or a compressed archive (e.g zip).
-- Include a README file that explains how to run the application and any specific instructions.
-
-
 # Additional Information
 
 ### Vue.js Framework
